@@ -1,0 +1,16 @@
+<package format="3">
+  <name>jetauto_description</name>
+  <version>1.0.0</version>
+  <description>
+    <p>URDF Description package for jetauto</p>
+    <p>This package contains configuration data, 3D models and launch files
+for jetauto robot</p>
+  </description>
+  <author>hiwonder</author>
+  <maintainer email="hiwonder@email.com" />
+  <license>BSD</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <export>
+  <build_type>ament_cmake</build_type>
+  </export>
+</package>
