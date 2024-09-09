@@ -36,7 +36,7 @@
     <child link="r_link" />
     <axis xyz="0 -1 0" />
     <limit
-      lower="-1.57"
+      lower="0"
       upper="1.57"
       effort="1000"
       velocity="2" />
